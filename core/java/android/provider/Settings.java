@@ -5270,7 +5270,13 @@ public final class Settings {
          */
         public static final String VOLUME_BUTTON_MUSIC_CONTROL = "volume_button_music_control";
 
-       /**
+	/**
+         * media artwork wallpaper blur level on lockscreen
+         * @hide
+         */
+        public static final String SHOW_LOCKSCREEN_MEDIA_ART = "show_lockscreen_media_art";
+
+        /**
          * These are all public system settings
          *
          * @hide
